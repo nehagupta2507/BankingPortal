@@ -12,4 +12,5 @@ The app uses Node's built-in `fs` library to read/write data and the Express rou
 # Technical Details:
 - Express
 - Node
+- EJS
 - 
